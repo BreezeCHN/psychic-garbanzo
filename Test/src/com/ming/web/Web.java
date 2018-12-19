@@ -1,11 +1,13 @@
 package com.ming.web;
 
+import com.ming.Dao.Dao;
+
 public class Web {
 	
-	public static void main(String[] args) {
-		
-		System.out.println("web");
-		System.out.println("2222");
+	Dao dao =new Dao();
+	public void fun1()
+	{
+//		dao.getMyName();
 	}
 
 }
