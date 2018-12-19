@@ -2,7 +2,8 @@ package com.ming.Dao;
 
 public class Dao {
 
-	public static void main(String[] args) {
-		System.out.println("dao");
+	public void getMyName()
+	{
+		System.out.println("omg");
 	}
 }
