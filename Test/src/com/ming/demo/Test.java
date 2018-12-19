@@ -5,6 +5,10 @@ public class Test {
 	public static void main(String[] args) {
 		
 		System.out.println("冰心");
+
 		System.out.println("张爱玲");
+
+		System.out.println("金庸");
+
 	}
 }
